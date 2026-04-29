@@ -4,9 +4,9 @@ A Python project that detects open ports, giving the user complete freedom of ch
 
 # Funtions
 
--Detect open ports
--Choose between different numbers of doors.
--scanning speed
+- Detect open ports
+- Choose between different numbers of doors.
+- scanning speed
 
 # How to use
 
